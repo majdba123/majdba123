@@ -19,7 +19,6 @@ My work focuses on building scalable ERP & CRM systems, custom business platform
 
 - **Scalable Business Applications** — Production-oriented applications designed with maintainability, performance, security, and future growth in mind.
 
-
 ## Core Engineering Focus
 
 - **End-to-End Application Development** — Building complete applications across backend services, databases, APIs, frontend interfaces, integrations, and deployment.
@@ -30,7 +29,12 @@ My work focuses on building scalable ERP & CRM systems, custom business platform
 
 - **Data & Business Logic** — Structuring relational data, complex workflows, validation rules, reporting logic, and transaction-driven business processes.
 
-  ## Tech Stack
+- **Security & Access Control** — Implementing authentication, role-based permissions, authorization rules, and secure API access patterns.
+
+- **Production Readiness** — Focusing on maintainability, testing, performance, deployment workflows, and software that can evolve as business requirements grow.
+
+
+## Tech Stack
 
 - **Backend** — PHP, Laravel, Python, REST APIs, authentication, authorization, and third-party integrations.
 
@@ -41,7 +45,4 @@ My work focuses on building scalable ERP & CRM systems, custom business platform
 - **Databases** — MySQL, relational database design, data modeling, queries, and transaction-driven business logic.
 
 - **Engineering & Delivery** — Git, GitHub, API integrations, deployment workflows, debugging, testing, and production-oriented development.
-
-- **Security & Access Control** — Implementing authentication, role-based permissions, authorization rules, and secure API access patterns.
-
 - **Production Readiness** — Focusing on maintainability, testing, performance, deployment workflows, and software that can evolve as business requirements grow.
