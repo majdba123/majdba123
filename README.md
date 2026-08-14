@@ -7,7 +7,6 @@ I design and build production-ready web platforms and business systems, covering
 My work focuses on building scalable ERP & CRM systems, custom business platforms, API-driven applications, integrations, automation, and reliable software designed for real-world operations.
 
 
-
 ## What I Build
 
 - **ERP & CRM Systems** — Custom business systems for managing operations, customers, workflows, permissions, reporting, and complex business processes.
@@ -17,6 +16,8 @@ My work focuses on building scalable ERP & CRM systems, custom business platform
 - **API & Integration-Driven Systems** — REST APIs, third-party integrations, payment services, external platforms, and systems designed to communicate reliably across multiple services.
 
 - **Automation & Business Workflows** — Software that reduces repetitive work, connects internal processes, and transforms manual operations into structured automated workflows.
+
+- **Scalable Business Applications** — Production-oriented applications designed with maintainability, performance, security, and future growth in mind.
 
 
 ## Core Engineering Focus
@@ -32,7 +33,3 @@ My work focuses on building scalable ERP & CRM systems, custom business platform
 - **Security & Access Control** — Implementing authentication, role-based permissions, authorization rules, and secure API access patterns.
 
 - **Production Readiness** — Focusing on maintainability, testing, performance, deployment workflows, and software that can evolve as business requirements grow.
-- 
-- **Scalable Business Applications** — Production-oriented applications designed with maintainability, performance, security, and future growth in mind.
-
-
