@@ -18,6 +18,21 @@ My work focuses on building scalable ERP & CRM systems, custom business platform
 
 - **Automation & Business Workflows** — Software that reduces repetitive work, connects internal processes, and transforms manual operations into structured automated workflows.
 
+
+## Core Engineering Focus
+
+- **End-to-End Application Development** — Building complete applications across backend services, databases, APIs, frontend interfaces, integrations, and deployment.
+
+- **Backend Engineering & APIs** — Designing maintainable backend systems, REST APIs, business logic, authentication, authorization, and service integrations.
+
+- **Frontend Engineering** — Developing responsive, maintainable, and user-focused interfaces connected to real-world business workflows and backend services.
+
+- **Data & Business Logic** — Structuring relational data, complex workflows, validation rules, reporting logic, and transaction-driven business processes.
+
+- **Security & Access Control** — Implementing authentication, role-based permissions, authorization rules, and secure API access patterns.
+
+- **Production Readiness** — Focusing on maintainability, testing, performance, deployment workflows, and software that can evolve as business requirements grow.
+- 
 - **Scalable Business Applications** — Production-oriented applications designed with maintainability, performance, security, and future growth in mind.
 
 
