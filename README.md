@@ -30,6 +30,18 @@ My work focuses on building scalable ERP & CRM systems, custom business platform
 
 - **Data & Business Logic** — Structuring relational data, complex workflows, validation rules, reporting logic, and transaction-driven business processes.
 
+  ## Tech Stack
+
+- **Backend** — PHP, Laravel, Python, REST APIs, authentication, authorization, and third-party integrations.
+
+- **Frontend** — Next.js, React, JavaScript, TypeScript, and responsive web application development.
+
+- **Mobile** — Flutter and Dart for cross-platform mobile application development.
+
+- **Databases** — MySQL, relational database design, data modeling, queries, and transaction-driven business logic.
+
+- **Engineering & Delivery** — Git, GitHub, API integrations, deployment workflows, debugging, testing, and production-oriented development.
+
 - **Security & Access Control** — Implementing authentication, role-based permissions, authorization rules, and secure API access patterns.
 
 - **Production Readiness** — Focusing on maintainability, testing, performance, deployment workflows, and software that can evolve as business requirements grow.
