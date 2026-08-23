@@ -1,111 +1,71 @@
 # Majd Bayer
 
-### Full-Stack Software Engineer
+### Software Engineer | Backend-Focused Full-Stack Engineer
 
-I design and build production-ready web platforms and business systems across the full development lifecycle — from backend architecture, APIs, databases, and business logic to modern frontend applications, mobile experiences, integrations, and deployment.
+[English](README.md) | [العربية](README_AR.md)
 
-My work focuses on building scalable ERP & CRM systems, custom business platforms, API-driven applications, automation workflows, and reliable software designed for real-world operations.
+I design and build production-ready business software across backend systems, APIs, databases, web applications, mobile experiences, integrations, and deployment.
 
+My main focus is **custom ERP & CRM systems, business platforms, backend architecture, REST APIs, workflow automation, and full-stack products built around real operational requirements**.
 
-## What I Build
+## Featured Projects
 
-- **ERP & CRM Systems** — Custom business systems for managing operations, customers, workflows, permissions, reporting, and complex business processes.
+| Project | What it demonstrates | Stack | Links |
+| --- | --- | --- | --- |
+| **HexaTerminal** | Full-stack company platform with structured CMS, public API, bilingual content, pricing, estimator, case studies, systems, leads, and governance content. | Laravel 12, Filament 4, Next.js 16, React 19, TypeScript | [Repository](https://github.com/majdba123/hexaterminal) · [Live](https://www.hexaterminal.com/en) |
+| **Transportation ERP Platform** | Multi-company transportation ERP and booking ecosystem covering fleets, drivers, routes, trips, reservations, pricing, operating costs, and passenger services across web and mobile applications. | Laravel, Vue, Flutter, REST API | [Repository](https://github.com/majdba123/transportation-erp-platform) |
+| **Vitoria** | Multi-role agriculture and veterinary commerce platform with vendors, products, ordering, syndicate oversight, analytics, and real-time workflows. | Laravel 12, Inertia, React 19, Redis, Reverb | [Repository](https://github.com/majdba123/Vitoria) · [Live](https://msz.hexaterminal.com/) |
+| **Malik Group** | Furniture catalog and administration platform with categorized products, rich galleries, pricing, search, filtering, and direct customer contact. | Laravel, Blade, Tailwind CSS, Vite | [Repository](https://github.com/majdba123/Malik_Group) · [Live](https://malik.hexaterminal.com/) |
+| **EZ Medicine** | Medical e-learning platform for paid courses, doctors, protected video access, student accounts, ratings, favourites, order approval, and administration. | Laravel 10, Blade, Bootstrap, Sanctum, Socialite | [Repository](https://github.com/majdba123/online_courses_website) |
 
-- **Full-Stack Web Platforms** — End-to-end applications combining backend services, databases, APIs, business logic, and modern responsive frontend experiences.
+## Engineering Focus
 
-- **API & Integration-Driven Systems** — REST APIs, third-party integrations, payment services, external platforms, and systems designed to communicate reliably across multiple services.
-
-- **Mobile Applications** — Cross-platform mobile applications connected to backend systems, APIs, and business workflows.
-
-- **Automation & Business Workflows** — Software that reduces repetitive work, connects internal processes, and transforms manual operations into structured automated workflows.
-
-- **Scalable Business Applications** — Production-oriented systems designed with maintainability, performance, security, and future growth in mind.
-
-
-## Core Engineering Focus
-
-- **End-to-End Application Development** — Building complete applications across backend services, databases, APIs, frontend interfaces, mobile applications, integrations, and deployment.
-
-- **Backend Engineering & APIs** — Designing maintainable backend systems, REST APIs, business logic, authentication, authorization, and service integrations.
-
-- **Frontend Engineering** — Developing responsive, maintainable, and user-focused interfaces connected to real business workflows and backend services.
-
-- **Database & Data Modeling** — Designing relational data structures, relationships, transactional workflows, validation rules, reporting logic, and efficient data access patterns.
-
-- **Security & Access Control** — Implementing authentication, role-based permissions, authorization rules, validation, and secure API access patterns.
-
-- **System Integration** — Connecting applications with third-party services, payment providers, APIs, and external business systems.
-
-- **Production Readiness** — Building software with maintainability, testing, debugging, performance, deployment, and long-term evolution in mind.
-
+- **Backend Engineering** — application architecture, business logic, REST APIs, authentication, authorization, integrations, and maintainable service boundaries.
+- **ERP & CRM Systems** — operational workflows, roles and permissions, reporting, customer and employee processes, and business-specific automation.
+- **Database & Data Modeling** — relational design, business entities, transactional workflows, validation rules, and efficient data access.
+- **Full-Stack Product Development** — backend, frontend, mobile, APIs, data, integrations, and deployment as one connected engineering process.
+- **Production Delivery** — Linux/VPS environments, SSH, Apache/Nginx, CI/CD workflows, debugging, deployment, and production maintenance.
+- **Requirements & System Design** — translating real business workflows into use cases, data models, system boundaries, and implementation plans.
 
 ## Tech Stack
 
-### Backend
+**Backend**  
+`PHP` · `Laravel` · `Python` · `TypeScript` · `NestJS` · `REST APIs`
 
-`PHP` · `Laravel` · `Python` · `REST APIs`
+**Frontend**  
+`Next.js` · `React` · `JavaScript` · `TypeScript` · `Tailwind CSS`
 
-### Frontend
-
-`Next.js` · `React` · `JavaScript` · `TypeScript`
-
-### Mobile
-
+**Mobile**  
 `Flutter` · `Dart`
 
-### Databases
+**Databases**  
+`MySQL` · `PostgreSQL` · `MongoDB` · `Data Modeling`
 
-`MySQL` · `Relational Database Design` · `Data Modeling`
+**Engineering & Delivery**  
+`Git` · `GitHub` · `Linux` · `VPS` · `SSH` · `Apache` · `Nginx` · `CI/CD` · `Testing` · `Debugging` · `API Integrations`
 
-### Engineering & Delivery
+## How I Work
 
-`Git` · `GitHub` · `API Integrations` · `Testing` · `Debugging` · `Deployment Workflows`
+I approach software as an engineering system rather than a collection of isolated screens or features.
 
+A typical project moves through:
 
-## Engineering Approach
+`Requirements → Workflows → Data Model → Architecture → Backend / API → Frontend / Mobile → Validation → Deployment → Iteration`
 
-I approach software development as a complete engineering process rather than a collection of isolated features.
+I prioritize maintainability, clear business rules, secure access control, practical architecture, and solutions that can evolve with the product instead of creating unnecessary complexity.
 
-I start by understanding the business problem, workflows, data relationships, users, permissions, and system constraints before deciding how the application should be structured.
+## HexaTerminal
 
-My goal is to build systems that are:
+I build software through **HexaTerminal**, focused on custom ERP & CRM systems, web platforms, mobile applications, e-commerce and business websites, integrations, and workflow automation.
 
-- **Maintainable** — Clear structure and code that can evolve without becoming increasingly difficult to change.
-- **Reliable** — Business rules, validation, permissions, and critical workflows are handled carefully.
-- **Scalable** — Architecture and data structures are designed with future growth in mind.
-- **Secure** — Authentication, authorization, access control, and sensitive operations are treated as core system concerns.
-- **Practical** — Technical decisions are based on the actual needs of the product and business rather than unnecessary complexity.
-
-
-## Areas I Enjoy Working On
-
-- Complex business workflows
-- ERP & CRM architecture
-- Backend systems and APIs
-- Full-stack product development
-- Database design and business logic
-- Third-party integrations
-- Automation and internal tools
-- Performance and reliability improvements
-- Turning manual business processes into structured software systems
-
-
-## About HexaTerminal
-
-I build software through **HexaTerminal**, focusing on custom ERP & CRM systems, web platforms, mobile applications, integrations, automation, and business software tailored to real operational requirements.
-
-🌐 **Website:** https://www.hexaterminal.com/en
-
+**Website:** https://www.hexaterminal.com/en
 
 ## Current Focus
 
-Currently focused on building and improving production-grade full-stack systems, strengthening software architecture and engineering practices, and developing reliable business applications that solve real operational problems.
+Building and improving production-ready business software, strengthening backend and system architecture, and creating reliable applications that solve real operational problems.
 
+## Connect
 
-## Let's Connect
+I am interested in software engineering opportunities, technically challenging products, and freelance projects that require strong backend, full-stack, database, API, and system-design work.
 
-I'm interested in software engineering opportunities, technically challenging projects, and building products that require strong backend, frontend, database, and system-level thinking.
-
-You can explore my work through the repositories below or visit:
-
-🌐 https://www.hexaterminal.com/en
+**Portfolio / Company:** https://www.hexaterminal.com/en
