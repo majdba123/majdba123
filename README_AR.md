@@ -1,71 +1,87 @@
 # مجد باير
 
-### مهندس برمجيات | Full-Stack مع تركيز على الـBackend
+### Full Stack Software Engineer | Backend-Focused | Laravel | FastAPI | Next.js
 
 [English](README.md) | [العربية](README_AR.md)
 
-أصمم وأطوّر برمجيات أعمال جاهزة للاستخدام الفعلي، تشمل أنظمة الـBackend، الـAPIs، قواعد البيانات، تطبيقات الويب، تطبيقات الموبايل، التكاملات، والنشر على بيئات الإنتاج.
+أنا مهندس برمجيات Full Stack بخبرة تزيد عن 3 سنوات ضمن الشركات والعمل الحر، مع تركيز أساسي على **هندسة الـBackend باستخدام PHP/Laravel وPython/FastAPI**، وبناء تجارب تطبيق متكاملة باستخدام **Next.js وTypeScript**.
 
-تركيزي الأساسي هو **أنظمة ERP وCRM المخصصة، منصات الأعمال، هندسة الـBackend، REST APIs، أتمتة سير العمل، وبناء منتجات Full-Stack انطلاقاً من احتياجات التشغيل الحقيقية**.
+أعمل على أنظمة ERP وCRM، REST APIs، نمذجة قواعد البيانات، Authentication وRBAC، تكاملات الطرف الثالث، الاختبارات، النشر، وحل مشاكل بيئات الإنتاج. أمتلك دورة التسليم من تحليل المتطلبات وتصميم المعمارية حتى التنفيذ والإطلاق والصيانة والتسليم التقني.
 
-## المشاريع المميزة
+## المهارات التقنية
 
-| المشروع | ماذا يوضح | التقنيات | الروابط |
-| --- | --- | --- | --- |
-| **HexaTerminal** | منصة شركة Full-Stack فيها CMS منظم، API عامة، محتوى ثنائي اللغة، تسعير، Estimator، Case Studies، Systems، Leads ومحتوى Trust/Governance. | Laravel 12, Filament 4, Next.js 16, React 19, TypeScript | [المستودع](https://github.com/majdba123/hexaterminal) · [الموقع](https://www.hexaterminal.com/en) |
-| **Transportation ERP Platform** | نظام ERP متعدد الشركات للنقل والحجوزات، يشمل الأسطول، السائقين، الخطوط، الرحلات، الحجوزات، التسعير، التكاليف التشغيلية وخدمات الركاب عبر الويب والموبايل. | Laravel, Vue, Flutter, REST API | [المستودع](https://github.com/majdba123/transportation-erp-platform) |
-| **Vitoria** | منصة تجارة متعددة الأدوار للقطاعين الزراعي والبيطري مع Vendors، Products، Ordering، Syndicate Oversight، Analytics وReal-time Workflows. | Laravel 12, Inertia, React 19, Redis, Reverb | [المستودع](https://github.com/majdba123/Vitoria) · [الموقع](https://msz.hexaterminal.com/) |
-| **Malik Group** | منصة كتالوج أثاث وإدارة منتجات مع تصنيفات، صور متعددة، أسعار، بحث، فلترة وتواصل مباشر مع العميل. | Laravel, Blade, Tailwind CSS, Vite | [المستودع](https://github.com/majdba123/Malik_Group) · [الموقع](https://malik.hexaterminal.com/) |
-| **EZ Medicine** | منصة تعليم طبي ودورات مدفوعة مع أطباء، فيديوهات محمية، حسابات طلاب، تقييمات، مفضلة، موافقة على الطلبات ولوحة إدارة. | Laravel 10, Blade, Bootstrap, Sanctum, Socialite | [المستودع](https://github.com/majdba123/online_courses_website) |
+**Core Stack**  
+`PHP / Laravel` · `Python / FastAPI` · `Next.js` · `TypeScript`
 
-## تركيزي الهندسي
-
-- **هندسة الـBackend** — بنية التطبيق، منطق الأعمال، REST APIs، المصادقة، الصلاحيات، التكاملات وحدود الخدمات بشكل قابل للصيانة.
-- **أنظمة ERP وCRM** — العمليات التشغيلية، الأدوار والصلاحيات، التقارير، عمليات العملاء والموظفين، والأتمتة المرتبطة باحتياجات العمل.
-- **قواعد البيانات ونمذجة البيانات** — تصميم العلاقات، الكيانات، المعاملات، قواعد التحقق، والوصول الفعال للبيانات.
-- **تطوير Full-Stack متكامل** — Backend وFrontend وموبايل وAPIs وبيانات وتكاملات ونشر كمنظومة واحدة مترابطة.
-- **التسليم للإنتاج** — Linux/VPS، SSH، Apache/Nginx، CI/CD، Debugging، Deployment وصيانة بيئات الإنتاج.
-- **تحليل المتطلبات وتصميم الأنظمة** — تحويل سير العمل الحقيقي إلى Use Cases، Data Models، System Boundaries وخطط تنفيذ واضحة.
-
-## التقنيات
-
-**Backend**  
-`PHP` · `Laravel` · `Python` · `TypeScript` · `NestJS` · `REST APIs`
-
-**Frontend**  
-`Next.js` · `React` · `JavaScript` · `TypeScript` · `Tailwind CSS`
-
-**Mobile**  
-`Flutter` · `Dart`
+**Backend Engineering**  
+`REST APIs` · `Laravel Sanctum` · `Authentication` · `Authorization` · `RBAC` · `Third-Party API Integrations` · `Payment Integrations` · `Background Workflows` · `Real-Time Workflows`
 
 **Databases**  
-`MySQL` · `PostgreSQL` · `MongoDB` · `Data Modeling`
+`MySQL` · `PostgreSQL` · `MongoDB` · `Redis` · `ERD` · `Relational Data Modeling` · `Query Design`
 
-**Engineering & Delivery**  
-`Git` · `GitHub` · `Linux` · `VPS` · `SSH` · `Apache` · `Nginx` · `CI/CD` · `Testing` · `Debugging` · `API Integrations`
+**Architecture & Full-Stack Delivery**  
+`Requirements Analysis` · `SDLC` · `Use Cases` · `System Design` · `API Design` · `ERP / CRM` · `Workflow Automation` · `Next.js Application Delivery` · `Scalability` · `Performance Optimization`
 
-## طريقة عملي
+**Testing & Delivery**  
+`Unit / API Testing` · `PHPUnit` · `CI/CD` · `Git / GitHub` · `Linux` · `VPS` · `SSH` · `Nginx` · `Apache` · `AWS` · `DigitalOcean` · `Production Deployment`
 
-أتعامل مع البرمجيات كنظام هندسي متكامل، وليس كمجموعة شاشات أو Features منفصلة.
+**AI-Assisted Development**  
+`Prompt Engineering` · `Coding Assistants & Agents` · `Debugging` · `Refactoring` · `Documentation` · `Technical Planning`
 
-المسار المعتاد عندي يكون:
+## الخبرة المهنية
 
-`Requirements → Workflows → Data Model → Architecture → Backend / API → Frontend / Mobile → Validation → Deployment → Iteration`
+### Founder & Software Engineer — HexaTerminal
+**Independent / Remote · Jan 2026 – Present**
 
-أركز على قابلية الصيانة، وضوح قواعد العمل، التحكم الآمن بالصلاحيات، البنية العملية، وبناء حلول تتطور مع المنتج بدون تعقيد زائد.
+- قيادة تحليل المتطلبات، المعمارية، والتسليم الكامل لأنظمة ERP/CRM المخصصة، منصات الويب، التكاملات، الأتمتة، وبرمجيات الأعمال.
+- بناء تطبيقات باستخدام Laravel أو Python/FastAPI في الـBackend مع Next.js في طبقة التطبيق، مع مسؤولية أساسية عن المعمارية، الـAPIs، منطق الأعمال، وتصميم البيانات.
+- إدارة تصميم الـAPI والبيانات، الصلاحيات، النشر، الاستضافة، حل مشاكل الإنتاج، الصيانة، والتسليم التقني.
+
+### Backend Engineer — Rakez Real Estate
+**Saudi Arabia / Remote · Aug 2024 – Sep 2026**
+
+- تطوير عمليات ERP والمحاسبة لقطاع العقارات باستخدام Laravel services وREST APIs ونماذج بيانات علائقية ومنطق أعمال فعلي.
+- تنفيذ العمولات، الدفعات، توزيع الرواتب، الإشعارات، لوحات التحكم، الـauthenticated endpoints، وأنظمة الأدوار والصلاحيات الدقيقة.
+- العمل على تحليل المتطلبات، ERD وتصميم قاعدة البيانات، تنفيذ الـBackend، تكاملات الـAPI، الاختبارات، النشر، إعداد السيرفر، ودعم الإنتاج.
+
+### Full Stack Software Engineer — HighLevel Technology
+**Egypt · Jan 2024 – Apr 2026**
+
+- بناء ودعم تطبيقات Full Stack عبر الـFrontend والـBackend مع مسؤولية رئيسية عن Backend architecture وREST APIs ومنطق قواعد البيانات والتكاملات وحل مشاكل الإنتاج.
+- العمل من المتطلبات والتخطيط التقني إلى التنفيذ والـdebugging والنشر والدعم باستخدام Laravel/PHP وخدمات مبنية على Python.
+
+### Freelance Software Engineer — Independent Clients
+**Remote · 3+ years of project delivery**
+
+- تسليم مشاريع Full Stack كاملة عبر عدة قطاعات من تحليل المتطلبات وتصميم الحل حتى التطوير والنشر والصيانة والتسليم للعميل.
+- بناء تطبيقات Next.js وخدمات Backend باستخدام Laravel وPython/FastAPI مع MySQL وPostgreSQL وMongoDB وتكاملات خارجية وبوابات دفع.
+
+## المشاريع الهندسية المختارة
+
+| المشروع | المجال الهندسي | التقنيات | الروابط |
+| --- | --- | --- | --- |
+| **Rakez ERP — Real Estate ERP** | نظام ERP عقاري موجه للإنتاج يشمل لوحات المحاسبة، العمولات، الدفعات، الرواتب، الإشعارات، APIs محمية، صلاحيات دقيقة، تكاملات، وعمليات تشغيلية. | Laravel 12, REST APIs, Sanctum, RBAC, Redis, PHPUnit | [Repository](https://github.com/majdba123/Rakez) |
+| **HexaTerminal Platform — Website & CMS** | Laravel/Filament CMS مع تطبيق Next.js منفصل مربوط عبر `/api/v1/public` ويشمل محتوى متعدد اللغات، publishing workflows، lead capture، pricing/estimator، search، redirects، وauthorization. | Laravel 12, Next.js 16, Filament 4, REST API, TypeScript | [Repository](https://github.com/majdba123/hexaterminal) · [Live](https://www.hexaterminal.com/en) |
+| **Transportation ERP Platform** | نظام إدارة نقل وحجوزات متعدد الشركات يشمل الأسطول، السائقين، الخطوط، الرحلات، المقاعد، الحجوزات، التكاليف التشغيلية، تدفقات الركاب، والصلاحيات والإشعارات الفورية. | Laravel 10, REST APIs, Sanctum, ERP, Pusher | [Repository](https://github.com/majdba123/transportation-erp-platform) |
+| **IR Mobile Store — Information Retrieval & Commerce Platform** | يجمع Python/Scrapy لجمع ومعالجة البيانات مع Laravel Search/Retrieval وCommerce APIs لبيانات أجهزة الموبايل، البحث والمقارنة والطلبات والخصومات والحسابات والإدارة. | Laravel 10, Python, Scrapy, Search APIs, Sanctum | [Repository](https://github.com/majdba123/IR_Mobile_Store) |
+
+## مشاريع إضافية
+
+توجد مستودعات إضافية مثل **Vitoria** و**Malik Group** و**EZ Medicine** ومشاريع إنتاجية وتجريبية أخرى. تبقى جزءاً من الـportfolio، بينما المشاريع الأربعة أعلاه هي المشاريع الأساسية المتوافقة مع التوجه الحالي كمهندس Full Stack بتركيز Backend.
+
+## أسلوبي الهندسي
+
+`Requirements → Architecture → Data Model → API / Backend → Frontend Integration → Testing → Deployment → Production Support`
+
+أركز على قابلية الصيانة، وضوح قواعد العمل، التحكم الآمن بالصلاحيات، المعمارية العملية، الأداء، وبناء أنظمة قابلة للتطور بدون تعقيد غير ضروري.
+
+## التعليم
+
+**Bachelor's Degree in Information Technology — Software Engineering Specialization**  
+Al-Sham Private University, Damascus · Sep 2019 – Oct 2024
 
 ## HexaTerminal
 
-أبني البرمجيات من خلال **HexaTerminal**، مع تركيز على أنظمة ERP وCRM المخصصة، منصات الويب، تطبيقات الموبايل، مواقع التجارة والأعمال، التكاملات، وأتمتة سير العمل.
-
-**الموقع:** https://www.hexaterminal.com/en
-
-## التركيز الحالي
-
-بناء وتحسين برمجيات أعمال جاهزة للإنتاج، تقوية هندسة الـBackend وتصميم الأنظمة، وتطوير تطبيقات موثوقة تحل مشاكل تشغيلية حقيقية.
-
-## تواصل
-
-مهتم بفرص Software Engineering، المنتجات التقنية الصعبة، ومشاريع Freelance التي تحتاج خبرة قوية في الـBackend، Full-Stack، قواعد البيانات، APIs، وتصميم الأنظمة.
+أبني البرمجيات من خلال **HexaTerminal** مع تركيز على أنظمة ERP/CRM المخصصة، منصات الويب، التكاملات، الأتمتة، وبرمجيات الأعمال الجاهزة للإنتاج.
 
 **Portfolio / Company:** https://www.hexaterminal.com/en
