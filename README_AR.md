@@ -10,9 +10,9 @@
 
 مهندس برمجيات Full Stack بخبرة تزيد عن **3 سنوات ضمن الشركات والعمل الحر** في تسليم أنظمة ويب وبرمجيات أعمال Production من البداية للنهاية.
 
-تركيزي الأقوى هو **هندسة الـBackend باستخدام PHP/Laravel وPython/FastAPI**، مع بناء تطبيقات متكاملة باستخدام **Next.js وTypeScript**. أعمل على ERP/CRM، REST APIs، نمذجة البيانات العلائقية، Authentication وRBAC، تكاملات الطرف الثالث، الاختبارات، CI/CD، نشر السيرفرات، وحل مشاكل بيئات الإنتاج.
+تركيزي الأقوى هو **هندسة الـBackend باستخدام PHP/Laravel وPython/FastAPI**، مع بناء تطبيقات متكاملة باستخدام **Next.js وTypeScript**. لدي خبرة في ERP/CRM workflows، REST APIs، نمذجة البيانات العلائقية، Authentication وRBAC، تكاملات الطرف الثالث، الاختبارات، النشر، وحل مشاكل بيئات الإنتاج.
 
-أستخدم **AI coding assistants وagents مع structured prompting وcontext engineering** لتسريع التنفيذ، debugging، refactoring، والتخطيط التقني، مع الاحتفاظ بالمسؤولية الكاملة عن المعمارية، جودة الكود، التحقق من المخرجات، وقرارات الإنتاج.
+أمتلك دورة التسليم من المتطلبات والمعمارية حتى التنفيذ والإطلاق والصيانة والتسليم التقني.
 
 ## المهارات التقنية
 
@@ -28,11 +28,11 @@
 **Architecture & Full-Stack Delivery**  
 `Requirements Analysis` · `SDLC` · `Use Cases` · `System Design` · `API Design` · `ERP / CRM` · `Workflow Automation` · `Next.js Application Delivery` · `Scalability` · `Performance Optimization`
 
-**DevOps & Production Delivery**  
-`CI/CD` · `GitHub Actions` · `Git / GitHub` · `Linux` · `VPS` · `SSH` · `Nginx` · `Apache` · `cPanel` · `Docker` · `AWS` · `DigitalOcean` · `Environment Configuration` · `Cloud / Shared Hosting Deployment` · `Production Troubleshooting`
+**Testing & Delivery**  
+`Unit / API Testing` · `PHPUnit` · `CI/CD` · `Git / GitHub` · `Linux` · `VPS` · `SSH` · `Nginx` · `Apache` · `AWS` · `DigitalOcean` · `Production Deployment`
 
-**AI-Assisted Engineering**  
-`Prompt Engineering` · `Context Engineering` · `AI Coding Assistants & Agents` · `Implementation Acceleration` · `Debugging` · `Refactoring` · `Documentation` · `Technical Planning` · `Output Validation`
+**AI-Assisted Development**  
+`Prompt Engineering` · `Coding Assistants & Agents` · `Debugging` · `Refactoring` · `Documentation` · `Technical Planning`
 
 ## الخبرة المهنية
 
@@ -41,27 +41,26 @@
 
 - قيادة تحليل المتطلبات، المعمارية، والتسليم الكامل لأنظمة ERP/CRM المخصصة، منصات الويب، التكاملات، الأتمتة، وبرمجيات الأعمال.
 - بناء تطبيقات end-to-end باستخدام Laravel أو Python/FastAPI في الـBackend مع Next.js، مع مسؤولية أساسية عن Backend architecture، APIs، منطق الأعمال، وتصميم البيانات.
-- إدارة التسليم للإنتاج عبر CI/CD، إعدادات البيئة، Linux/VPS، cloud/shared-hosting deployments، web-server setup، الصيانة، وحل مشاكل الإنتاج.
+- إدارة تصميم الـAPI والبيانات، الصلاحيات، deployment، hosting، production troubleshooting، الصيانة، والتسليم التقني.
 
 ### Backend Engineer — Rakez Real Estate
 **Saudi Arabia / Remote · Aug 2024 – Sep 2026**
 
-- تطوير عمليات ERP والمحاسبة لقطاع العقارات باستخدام Laravel services وREST APIs ونماذج بيانات علائقية ومنطق أعمال فعلي.
+- تطوير عمليات ERP والمحاسبة لقطاع العقارات باستخدام Laravel services وREST APIs ونماذج بيانات علائقية ومنطق أعمال Production.
 - تنفيذ العمولات، الدفعات، توزيع الرواتب، الإشعارات، لوحات التحكم، authenticated endpoints، وأنظمة الأدوار والصلاحيات الدقيقة.
-- العمل على تحليل المتطلبات، ERD وتصميم قاعدة البيانات، تنفيذ الـBackend، API integration، unit testing، CI/CD، deployment، server configuration، ودعم الإنتاج.
+- العمل على تحليل المتطلبات، ERD وتصميم قاعدة البيانات، تنفيذ الـBackend، API integration، unit testing، deployment، server configuration، ودعم الإنتاج.
 
 ### Full Stack Software Engineer — HighLevel Technology
 **Egypt · Jan 2024 – Apr 2026**
 
 - بناء ودعم تطبيقات Full Stack عبر الـFrontend والـBackend مع مسؤولية رئيسية عن Backend architecture وREST APIs ومنطق قواعد البيانات والتكاملات وحل مشاكل الإنتاج.
-- العمل من المتطلبات والتخطيط التقني حتى التنفيذ، debugging، CI/CD، deployment، server configuration، والدعم المستمر للإنتاج باستخدام Laravel/PHP وخدمات مبنية على Python.
+- العمل من المتطلبات والتخطيط التقني حتى التنفيذ، debugging، deployment، والدعم المستمر باستخدام Laravel/PHP وخدمات مبنية على Python.
 
 ### Freelance Software Engineer — Independent Clients
 **Remote · 3+ years of project delivery**
 
 - تسليم مشاريع Full Stack كاملة عبر عدة قطاعات من تحليل المتطلبات وتصميم الحل حتى التطوير والنشر والصيانة والتسليم للعميل.
 - بناء تطبيقات Next.js وخدمات Backend باستخدام Laravel وPython/FastAPI مع MySQL وPostgreSQL وMongoDB وتكاملات خارجية وبوابات دفع.
-- نشر وصيانة التطبيقات على VPS وcloud وshared hosting، مع إدارة CI/CD workflows وSSH وإعداد web servers والبيئات وحل مشاكل الإنتاج.
 
 ## المشاريع الهندسية المختارة
 
@@ -74,13 +73,13 @@
 
 ## أعمال هندسية إضافية
 
-توجد مستودعات إضافية مثل **Vitoria** و**Malik Group** و**EZ Medicine** و**HEXA Video Builder / MontageTools**. تبقى جزءًا من الـportfolio، بينما المشاريع الأربعة أعلاه هي المشاريع الأساسية المتوافقة مع التوجه الحالي كمهندس Full Stack بتركيز Backend.
+توجد مستودعات إضافية مثل **Vitoria** و**Malik Group** و**EZ Medicine** و**HEXA Video Builder / MontageTools**. تبقى جزءًا من الـportfolio، بينما المشاريع الأربعة أعلاه هي المشاريع الأساسية المتوافقة مع التوجه الحالي في الـCV كمهندس Full Stack بتركيز Backend.
 
 ## أسلوبي الهندسي
 
-`Requirements → Architecture → Data Model → API / Backend → Frontend Integration → Testing → CI/CD → Deployment → Production Support`
+`Requirements → Architecture → Data Model → API / Backend → Frontend Integration → Testing → Deployment → Production Support`
 
-أركز على قابلية الصيانة، وضوح قواعد العمل، التحكم الآمن بالصلاحيات، المعمارية العملية، الأداء، الموثوقية التشغيلية، وبناء أنظمة قابلة للتطور بدون تعقيد غير ضروري.
+أركز على قابلية الصيانة، وضوح قواعد العمل، التحكم الآمن بالصلاحيات، المعمارية العملية، الأداء، وبناء أنظمة قابلة للتطور بدون تعقيد غير ضروري.
 
 ## التعليم
 
