@@ -10,9 +10,9 @@
 
 Full Stack Software Engineer with **3+ years of company and freelance experience** delivering production web and business systems end to end.
 
-My strongest focus is **backend engineering with PHP/Laravel and Python/FastAPI**, while building complete application experiences with **Next.js and TypeScript**. I work across ERP/CRM workflows, REST APIs, relational data modeling, authentication and RBAC, third-party integrations, testing, CI/CD, server deployment, and production troubleshooting.
+Strongest focus is **backend engineering with PHP/Laravel and Python/FastAPI**, while building complete application experiences with **Next.js and TypeScript**. Experienced in ERP/CRM workflows, REST APIs, relational data modeling, authentication and RBAC, third-party integrations, testing, deployment, and production troubleshooting.
 
-I use **AI coding assistants and agents with structured prompting and context engineering** to accelerate implementation, debugging, refactoring, and technical planning while retaining ownership of architecture, code quality, validation, and production decisions.
+Own delivery from requirements and architecture through implementation, release, maintenance, and technical handoff.
 
 ## Technical Skills
 
@@ -28,11 +28,11 @@ I use **AI coding assistants and agents with structured prompting and context en
 **Architecture & Full-Stack Delivery**  
 `Requirements Analysis` · `SDLC` · `Use Cases` · `System Design` · `API Design` · `ERP / CRM` · `Workflow Automation` · `Next.js Application Delivery` · `Scalability` · `Performance Optimization`
 
-**DevOps & Production Delivery**  
-`CI/CD` · `GitHub Actions` · `Git / GitHub` · `Linux` · `VPS` · `SSH` · `Nginx` · `Apache` · `cPanel` · `Docker` · `AWS` · `DigitalOcean` · `Environment Configuration` · `Cloud / Shared Hosting Deployment` · `Production Troubleshooting`
+**Testing & Delivery**  
+`Unit / API Testing` · `PHPUnit` · `CI/CD` · `Git / GitHub` · `Linux` · `VPS` · `SSH` · `Nginx` · `Apache` · `AWS` · `DigitalOcean` · `Production Deployment`
 
-**AI-Assisted Engineering**  
-`Prompt Engineering` · `Context Engineering` · `AI Coding Assistants & Agents` · `Implementation Acceleration` · `Debugging` · `Refactoring` · `Documentation` · `Technical Planning` · `Output Validation`
+**AI-Assisted Development**  
+`Prompt Engineering` · `Coding Assistants & Agents` · `Debugging` · `Refactoring` · `Documentation` · `Technical Planning`
 
 ## Professional Experience
 
@@ -41,27 +41,26 @@ I use **AI coding assistants and agents with structured prompting and context en
 
 - Lead requirements analysis, architecture, and end-to-end delivery of custom ERP/CRM systems, web platforms, integrations, automation workflows, and business software.
 - Build end-to-end web applications using Laravel or Python/FastAPI backends with Next.js application layers, with primary ownership of backend architecture, APIs, business logic, and data design.
-- Own production delivery across CI/CD, environment configuration, Linux/VPS and cloud/shared-hosting deployments, web-server setup, maintenance, and production troubleshooting.
+- Own API and data design, permissions, deployment, hosting, production troubleshooting, maintenance, and technical handoff.
 
 ### Backend Engineer — Rakez Real Estate
 **Saudi Arabia / Remote · Aug 2024 – Sep 2026**
 
 - Engineered ERP and accounting workflows for real-estate operations using Laravel services, REST APIs, relational data models, and production business logic.
 - Implemented commissions, deposits, salary distributions, notifications, dashboards, authenticated endpoints, and granular role/permission workflows.
-- Worked across requirements analysis, ERD/database design, backend implementation, API integration, unit testing, CI/CD, deployment, server configuration, and production support.
+- Worked across requirements analysis, ERD/database design, backend implementation, API integration, unit testing, deployment, server configuration, and production support.
 
 ### Full Stack Software Engineer — HighLevel Technology
 **Egypt · Jan 2024 – Apr 2026**
 
 - Built and supported full-stack web applications across frontend and backend, with primary ownership of backend architecture, REST APIs, database logic, integrations, and production troubleshooting.
-- Worked from technical requirements and planning through implementation, debugging, CI/CD, deployment, server configuration, and ongoing production support using Laravel/PHP and Python-based services.
+- Worked from technical requirements and planning through implementation, debugging, deployment, and ongoing support using Laravel/PHP and Python-based services.
 
 ### Freelance Software Engineer — Independent Clients
 **Remote · 3+ years of project delivery**
 
 - Delivered complete full-stack software projects across multiple industries from requirements analysis and solution design through frontend/backend development, deployment, maintenance, and client handoff.
 - Built Next.js web applications and backend services with Laravel and Python/FastAPI, using MySQL, PostgreSQL, and MongoDB; integrated external APIs, services, and payment gateways.
-- Deployed and maintained applications across VPS, cloud, and shared-hosting environments, handling CI/CD workflows, SSH, web-server configuration, environment setup, and production troubleshooting.
 
 ## Selected Engineering Projects
 
@@ -74,13 +73,13 @@ I use **AI coding assistants and agents with structured prompting and context en
 
 ## Additional Engineering Work
 
-Other repositories include domain-focused and full-stack systems such as **Vitoria**, **Malik Group**, **EZ Medicine**, and **HEXA Video Builder / MontageTools**. They remain part of my engineering portfolio, while the four projects above are the primary projects aligned with my backend-focused positioning.
+Additional repositories include **Vitoria**, **Malik Group**, **EZ Medicine**, and **HEXA Video Builder / MontageTools**. They remain part of the broader engineering portfolio, while the four projects above are the primary projects aligned with the current backend-focused CV positioning.
 
 ## Engineering Approach
 
-`Requirements → Architecture → Data Model → API / Backend → Frontend Integration → Testing → CI/CD → Deployment → Production Support`
+`Requirements → Architecture → Data Model → API / Backend → Frontend Integration → Testing → Deployment → Production Support`
 
-I prioritize maintainability, clear business rules, secure access control, practical architecture, performance, operational reliability, and systems that can evolve without unnecessary complexity.
+I prioritize maintainability, clear business rules, secure access control, practical architecture, performance, and systems that can evolve without unnecessary complexity.
 
 ## Education
 
