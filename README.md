@@ -2,6 +2,8 @@
 
 ### Full Stack Software Engineer | Backend-Focused | Laravel | FastAPI | Next.js
 
+**Damascus, Syria** · **majdbayer77@gmail.com** · [Portfolio](https://www.hexaterminal.com/en)
+
 [English](README.md) | [العربية](README_AR.md)
 
 I am a Full Stack Software Engineer with 3+ years of company and freelance experience delivering production web and business systems end to end.
