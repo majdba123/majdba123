@@ -2,7 +2,7 @@
 
 ### Full Stack Software Engineer | Backend-Focused | Laravel | FastAPI | Next.js
 
-**Damascus, Syria** · **majdbayer77@gmail.com** · [Portfolio](https://www.hexaterminal.com/en)
+**Damascus, Syria** · **majdbayer77@gmail.com** · [LinkedIn](https://www.linkedin.com/in/majd-bayer-2222b4432/) · [Portfolio](https://www.hexaterminal.com/en)
 
 [English](README.md) | [العربية](README_AR.md)
 
@@ -71,7 +71,7 @@ I own delivery from requirements and architecture through implementation, releas
 
 ## Additional Projects
 
-Other repositories include full-stack and domain-focused work such as **Vitoria**, **Malik Group**, **EZ Medicine**, and additional production and experimental systems. They remain part of my engineering portfolio, while the four projects above are the primary projects aligned with my current backend-focused positioning.
+Other repositories include full-stack and domain-focused work such as **Vitoria**, **Malik Group**, **EZ Medicine**, and **HEXA Video Builder / MontageTools**. They remain part of my engineering portfolio, while the four projects above are the primary projects aligned with my current backend-focused positioning.
 
 ## Engineering Approach
 
@@ -84,8 +84,8 @@ I prioritize maintainability, clear business rules, secure access control, pract
 **Bachelor's Degree in Information Technology — Software Engineering Specialization**  
 Al-Sham Private University, Damascus · Sep 2019 – Oct 2024
 
-## HexaTerminal
+## Contact
 
-I build software through **HexaTerminal**, focused on custom ERP/CRM systems, web platforms, integrations, automation workflows, and production-grade business software.
-
-**Portfolio / Company:** https://www.hexaterminal.com/en
+- **Email:** majdbayer77@gmail.com
+- **LinkedIn:** https://www.linkedin.com/in/majd-bayer-2222b4432/
+- **Portfolio / Company:** https://www.hexaterminal.com/en
